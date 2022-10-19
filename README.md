@@ -25,6 +25,7 @@ Table of Contents
   * [Decentralized Finance (Defi)](#defi)
   * [On-chain Governance](#on-chain-governance)
   * [Cross-Chain Bridge](#cross-chain-bridge)
+  * [Oracles](#oracles)
   * [Social](#social)
   * [Frameworks](#frameworks)
   * [Libraries](#libraries)
@@ -54,7 +55,7 @@ Table of Contents
 ## Jobs
 
 - [Solana Ecosystem Job Board](https://jobs.solana.com/jobs)
-- [Earn.Superteam](https://earn.superteam.fun/)
+- [Superteam DAO's Earn Page](https://earn.superteam.fun/)
 
 ## Block Explorers
 
@@ -70,9 +71,12 @@ Got a question? Ask away on [the official Solana Stackexchange](https://solana.s
 
 ### NFTs
 
+For a much more extensive list of information regarding Solana NFTs, please see [awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts/blob/main/README.md). The following focuses on open-source core protocols related to NFT development on Solana.
+
 - [Metaplex](https://github.com/metaplex-foundation/metaplex-program-library/)
     ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
     ([docs](https://docs.metaplex.com/architecture/deep_dive/metaplex)) Metaplex is a set of progams that together enable NFT creators to mint, auction, airdrop, and update NFTs (and more!)
+- [Cardinal Lab's Token Manager](https://github.com/cardinal-labs/cardinal-token-manager) ![](https://img.shields.io/github/stars/cardinal-labs/cardinal-token-manager.svg?style=social) Cardinal token manager is a set of smart contracts on Solana to facilitate conditionally managed ownership. Using the invalidators and approvers in various ways allows for building rentals, expiring in-game items, subscriptions, permits, tickets, passes and more.
 - [NFToken](https://github.com/glow-xyz/nftoken) ![](https://img.shields.io/github/stars/glow-xyz/nftoken.svg?style=social) ([docs](https://nftoken.so/docs/overview)) NFToken is a simple, cheap NFT standard for Solana by Glow Wallet
 
 ### Defi
@@ -80,6 +84,7 @@ Got a question? Ask away on [the official Solana Stackexchange](https://solana.s
 - [Serum Monorepo](https://github.com/project-serum/serum-dex) ![](https://img.shields.io/github/stars/project-serum/serum-dex.svg?style=social) Project Serum Rust Monorepo. Serum was the first Central Limit Order Book (CLOB) on Solana, and has been a cornerstone of Solana Defi.
 - [Mango Markets V3](https://github.com/blockworks-foundation/mango-v3) ![](https://img.shields.io/github/stars/blockworks-foundation/mango-v3.svg?style=social)
 - [Jet Protocol V2](https://github.com/jet-lab/jet-v2) ![](https://img.shields.io/github/stars/jet-lab/jet-v2.svg?style=social) Implementation of the Jet Protocol V2 programs for Solana
+- [Bonfida Token Vesting](https://github.com/Bonfida/token-vesting) ![](https://img.shields.io/github/stars/Bonfida/token-vesting.svg?style=social) A Vesting Contract for the Solana Blockchain
 
 ### On-Chain Governance
 
@@ -89,9 +94,16 @@ Got a question? Ask away on [the official Solana Stackexchange](https://solana.s
 
 - [Wormhole](https://github.com/wormhole-foundation/wormhole) ![](https://img.shields.io/github/stars/wormhole-foundation/wormhole.svg?style=social) A reference implementation for the Wormhole blockchain interoperability protocol. See more information about [wormhole here](https://wormhole.com/).
 
+## Oracles
+
+- [Switchboard](https://github.com/switchboard-xyz/switchboard-v2) ![](https://img.shields.io/github/stars/switchboard-xyz/switchboard-v2.svg?style=social) ([docs](https://docs.switchboard.xyz/)) Switchboard provides a permission-less data layer to bridge the gap between the internet and web3.
+- [Pyth Oracles for Serum Order Book Prices](https://github.com/pyth-network/pyth-serum) and it's [Rust SDK](https://github.com/pyth-network/pyth-sdk-rs). See more information about [Pyth Network here](https://pyth.network/).
+
 ### Social
 
+- [Cardinal Lab's Namespaces](https://github.com/cardinal-labs/cardinal-namespaces) ![](https://img.shields.io/github/stars/cardinal-labs/cardinal-namespaces.svg?style=social) Cardinal program for mapping string names to data on-chain. Names are organized into logical groupings called namespaces. Namespaces authority can optionally set a rental price. Names are represented as NFTs wrapped using cardinal-token-manager
 - [Wordcel](https://github.com/Wordcel/wordcel) ![](https://img.shields.io/github/stars/Wordcel/wordcel.svg?style=social) V1 of the Wordcel social protocol, with emphasis on long-form blogging at the moment
+- [Bonfida's Name Service Guide]([https://github.com/Bonfida/name-tokenizer](https://github.com/Bonfida/solana-name-service-guide)) possibly deprecated ?? not sure
 
 ### Frameworks
 
