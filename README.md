@@ -56,9 +56,9 @@ Table of Contents
 - [Guide to Fullstack Development on Solana](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 
 Official Solana Developer Resources:
-- [Bootcamp Lectures - Highly Technical](https://github.com/solana-developers/solana-bootcamp-lectures) ![] (https://img.shields.io/github/stars/solana-developers/solana-bootcamp-lectures.svg?style=social)
-- [Program Examples](https://github.com/solana-developers/program-examples) ![] (https://img.shields.io/github/stars/solana-developers/program-examples.svg?style=social)
-- [Workshop dApps](https://github.com/solana-developers/workshop-dapps) ![] (https://img.shields.io/github/stars/solana-developers/workshop-dapps.svg?style=social)
+- [Bootcamp Lectures - Highly Technical](https://github.com/solana-developers/solana-bootcamp-lectures) ![](https://img.shields.io/github/stars/solana-developers/solana-bootcamp-lectures.svg?style=social)
+- [Program Examples](https://github.com/solana-developers/program-examples) ![](https://img.shields.io/github/stars/solana-developers/program-examples.svg?style=social)
+- [Workshop dApps](https://github.com/solana-developers/workshop-dapps) ![](https://img.shields.io/github/stars/solana-developers/workshop-dapps.svg?style=social)
 
 Figment Courses:
 - [Fullstack mail dApp on Solana](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana)
