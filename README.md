@@ -170,9 +170,29 @@ Closed Source Wallets:
 
 ## Security
 
+Network-level Resources:
 - [Solana Status](https://status.solana.com/) shows the health of the Solana mainnet cluster & RPC nodes
 - [Official Solana News](https://solana.com/news/)
 
+Program-level Resources:
+
+Neodyme:
+- [List of Common Security Pitfalls](https://blog.neodyme.io/posts/solana_common_pitfalls)
+- [Workshop Tutorial](https://workshop.neodyme.io/)
+- [PoC Framework](https://github.com/neodyme-labs/solana-poc-framework)
+
+OtterSec
+- [Framework for Solana CTF Challenges](https://github.com/otter-sec/sol-ctf-framework)
+- [Binary Ninja Plugin for Solana Byte Format](https://github.com/otter-sec/bn-ebpf-solana)
+- [Jet Protocol Governance PoCs](https://github.com/otter-sec/jet-governance-pocs)
+
+Sec3 Dev's Auditing Tutorials:
+- [Part One](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed)
+- [Part Two](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-2-automated-scanning-ceb88830ae6d)
+- [Part Three](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3)
+
+Solend Protocol's Auditing Presentation:
+- [Auditing Workshop Slides](https://docs.google.com/presentation/d/1jZ9kVo6hnhBsz3D2sywqpMojqLE5VTZtaXna7OHL1Uk/edit?pli=1#slide=id.ge15c343642_0_51)
 
 ## Contributing
 
