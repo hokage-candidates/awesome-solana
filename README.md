@@ -98,12 +98,21 @@ For a much more extensive list of information regarding Solana NFTs, please see 
 
 ### Defi
 
+Token Protocols:
+- [SPL Token](https://github.com/solana-labs/solana-program-library/tree/master/token) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) Similar to [ERC-20 standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+- [SPL Token 2022](https://github.com/solana-labs/solana-program-library/tree/master/token/program-2022) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) Not yet widely adopted
+
+Defi Protocols:
 - [Serum Monorepo](https://github.com/project-serum/serum-dex) ![](https://img.shields.io/github/stars/project-serum/serum-dex.svg?style=social) Project Serum Rust Monorepo. Serum was the first Central Limit Order Book (CLOB) on Solana, and has been a cornerstone of Solana Defi.
 - [Saber Stable Swap](https://github.com/saber-hq/stable-swap) ![](https://img.shields.io/github/stars/saber-hq/stable-swap.svg?style=social) 🔁 StableSwap by Saber: an automated market maker for mean-reverting trading pairs.
 - [Bonfida Token Vesting](https://github.com/Bonfida/token-vesting) ![](https://img.shields.io/github/stars/Bonfida/token-vesting.svg?style=social) A Vesting Contract for the Solana Blockchain
 - [Mango Markets V3](https://github.com/blockworks-foundation/mango-v3) ![](https://img.shields.io/github/stars/blockworks-foundation/mango-v3.svg?style=social) One of the largest Solana margin trading platforms
 - [Jet Protocol V2](https://github.com/jet-lab/jet-v2) ![](https://img.shields.io/github/stars/jet-lab/jet-v2.svg?style=social) Implementation of the Jet Protocol V2 programs for Solana
 - [Marinade Finance Liquid Staking Program](https://github.com/marinade-finance/liquid-staking-program) ![](https://img.shields.io/github/stars/marinade-finance/liquid-staking-program.svg?style=social)
+
+Official open source examples:
+- [SPL Token Lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound
+- [SPL Token Swap](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A Uniswap-like exchange for the Token program on the Solana blockchain.
 
 
 ### On-Chain Governance
