@@ -39,6 +39,7 @@ Table of Contents
 - [Install the Official Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Developer Guide](https://docs.solana.com/developers)
 - [Anchor's Intro to Solana](https://www.anchor-lang.com/docs/intro-to-solana)
+- [Intro to Solana for Solidity Developers]( https://2501babe.github.io/posts/solana101.html)
 
 ## Solana VM Blockchains
 
@@ -46,11 +47,22 @@ Table of Contents
 - [Nitro SVM](https://mobile.twitter.com/nitro_labs) is the first Solana VM chain (built on Cosmos).
 - [Eclipse](https://eclipse.builders/) is the first service providing customizable modular rollups, using the Solana VM
 
-## Books and Tutorials
+## Books, Tutorials, and Courses
 
 - [Solana Cookbook](https://solanacookbook.com/) is a developer resource that provides the essential concepts and references for building applications on Solana
 - [Anchor Lang Book](https://book.anchor-lang.com/) teaches how to build Solana programs using the Anchor framework
 - [SolDev Tutorials](https://soldev.app/)
+- [Buildspace Tutorials](https://buildspace.so/learn-solana)
+- [Guide to Fullstack Development on Solana](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+
+Figment Courses:
+- [Fullstack mail dApp on Solana](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana)
+- [Crowdfunding with Solana](https://learn.figment.io/tutorials/crowdfunding-with-solana)
+- [Make a Solana Explorer Clone Using React](https://learn.figment.io/tutorials/make-a-solana-explorer-clone-using-react)
+
+SolHack Courses:
+- [Building Solana Smart Contract dApps](https://solhack.com/courses/building-solana-smart-contracts-dapps-with-james-bachini/)
+- [Programming on Solana](https://solhack.com/courses/programming-on-solana-an-introduction/)
 
 ## Jobs
 
@@ -129,8 +141,10 @@ For a much more extensive list of information regarding Solana NFTs, please see 
 - [Solana.py](https://github.com/michaelhly/solana-py) ![](https://img.shields.io/github/stars/michaelhly/solana-py.svg?style=social) Solana Python SDK
 - [Solana Go](https://github.com/gagliardetto/solana-go.git) ![](https://img.shields.io/github/stars/gagliardetto/solana-go.svg?style=social) Solana Web3.js library in Go
 - [Solnet](https://github.com/bmresearch/Solnet) ![](https://img.shields.io/github/stars/bmresearch/Solnet.svg?style=social) Solana .NET SDK and integration library
+- [SolanaKT](https://github.com/metaplex-foundation/SolanaKT) ![](https://img.shields.io/github/stars/metaplex-foundation/SolanaKT.svg?style=social) Solana SDK for Kotlin
+- [Cryptoplease-dart](https://github.com/cryptoplease/cryptoplease-dart) ![](https://img.shields.io/github/stars/cryptoplease/cryptoplease-dart.svg?style=social) Dart and Flutter apps and libraries maintained by Crypto Please team for Solana
 - [Solders](https://github.com/kevinheavey/solders) ![](https://img.shields.io/github/stars/kevinheavey/solders.svg?style=social) Python wrapper for Rust SDK
-- [solanaj](https://github.com/skynetcap/solanaj) ![](https://img.shields.io/github/stars/p2p-org/solanaj.svg?style=social) Solana blockchain client, written in pure Java.
+- [solanaj](https://github.com/skynetcap/solanaj) ![](https://img.shields.io/github/stars/p2p-org/solanaj.svg?style=social) Solana blockchain client, written in pure Java
 
 ## IDEs
 
@@ -144,6 +158,12 @@ Please note that the following is an **_unofficial_** list ordered as described 
 - [Coral-xyz's Backpack](https://github.com/coral-xyz/backpack) ![](https://img.shields.io/github/stars/coral-xyz/backpack.svg?style=social) Cross chain wallet for Solana and Ethereum, it's specialty is its app store, which allows dApps to be bought as xNFTs (executable NFTs) which can then be run inside your wallet
 - [Solana Wallet for Unity](https://github.com/allartprotocol/unity-solana-wallet) ![](https://img.shields.io/github/stars/allartprotocol/unity-solana-wallet.svg?style=social) The First Open-Source Unity-Solana Wallet with NFT support
 - [p2p's Web Wallet](https://github.com/p2p-org/p2p-wallet-web) ![](https://img.shields.io/github/stars/p2p-org/p2p-wallet-web.svg?style=social) An Open Source Browser Based Solana Wallet.
+
+Closed Source Wallets:
+
+- [Phantom](https://phantom.app/)
+- [Solflare](https://solflare.com/)
+- [Glow](https://glow.app/)
 
 
 ## Security
