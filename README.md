@@ -94,7 +94,7 @@ For a much more extensive list of information regarding Solana NFTs, please see 
 
 - [Wormhole](https://github.com/wormhole-foundation/wormhole) ![](https://img.shields.io/github/stars/wormhole-foundation/wormhole.svg?style=social) A reference implementation for the Wormhole blockchain interoperability protocol. See more information about [wormhole here](https://wormhole.com/).
 
-## Oracles
+### Oracles
 
 - [Switchboard](https://github.com/switchboard-xyz/switchboard-v2) ![](https://img.shields.io/github/stars/switchboard-xyz/switchboard-v2.svg?style=social) ([docs](https://docs.switchboard.xyz/)) Switchboard provides a permission-less data layer to bridge the gap between the internet and web3.
 - [Pyth Oracles for Serum Order Book Prices](https://github.com/pyth-network/pyth-serum) and it's [Rust SDK](https://github.com/pyth-network/pyth-sdk-rs). See more information about [Pyth Network here](https://pyth.network/).
