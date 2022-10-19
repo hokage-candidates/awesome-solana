@@ -51,6 +51,11 @@ Table of Contents
 - [Anchor Lang Book](https://book.anchor-lang.com/) teaches how to build Solana programs using the Anchor framework
 - [SolDev Tutorials](https://soldev.app/)
 
+## Jobs
+
+- [Solana Ecosystem Job Board](https://jobs.solana.com/jobs)
+- [Earn.Superteam](https://earn.superteam.fun/)
+
 ## Block Explorers
 
 - [Official Solana Explorer](https://explorer.solana.com/)
@@ -78,8 +83,7 @@ Got a question? Ask away on [the official Solana Stackexchange](https://solana.s
 
 ### On-Chain Governance
 
-- [SPL Governance](https://github.com/solana-labs/solana-program-library/tree/master/governance) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) SPL Governance is a program the chief purpose of which is to provide core building blocks and primitives to create Decentralized Autonomous Organizations (DAOs) on Solana blockchain.
-- [Realms](https://realms.today/) is the official UI for interacting with organizations running on top of SPL Governance. The UI is [open sourced](https://github.com/solana-labs/governance-ui).
+- [SPL Governance](https://github.com/solana-labs/solana-program-library/tree/master/governance) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) SPL Governance is a program the chief purpose of which is to provide core building blocks and primitives to create Decentralized Autonomous Organizations (DAOs) on Solana blockchain. [Realms](https://realms.today/) is the official UI for interacting with organizations running on top of SPL Governance. The UI is [open sourced](https://github.com/solana-labs/governance-ui) ![](https://img.shields.io/github/stars/solana-labs/governance-ui.svg?style=social).
 
 ### Cross-Chain Bridge
 
@@ -100,6 +104,11 @@ Got a question? Ask away on [the official Solana Stackexchange](https://solana.s
 
 - [Sokoban](https://github.com/Ellipsis-Labs/sokoban) ![](https://img.shields.io/github/stars/Ellipsis-Labs/sokoban.svg?style=social) Compact, efficient data structures in contiguous byte arrays (for use in Solana smart contracts)
 
+### Indexers
+
+- [Holaplex's NFT Indexer](https://github.com/holaplex/indexer) ![](https://img.shields.io/github/stars/holaplex/indexer.svg?style=social)
+- [Metaplex's NFT Indexer](https://github.com/metaplex-foundation/digital-asset-validator-plugin) ![](https://img.shields.io/github/stars/metaplex-foundation/digital-asset-validator-plugin.svg?style=social)
+
 ## SDKs
 
 - [Official Web3.js](https://github.com/solana-labs/solana/tree/master/web3.js) ![](https://img.shields.io/github/stars/solana-labs/solana.svg?style=social) Solana JavaScript API
@@ -107,7 +116,7 @@ Got a question? Ask away on [the official Solana Stackexchange](https://solana.s
 - [Solana.py](https://github.com/michaelhly/solana-py) ![](https://img.shields.io/github/stars/michaelhly/solana-py.svg?style=social) Solana Python SDK
 - [Solana Go](https://github.com/gagliardetto/solana-go.git) ![](https://img.shields.io/github/stars/gagliardetto/solana-go.svg?style=social) Solana Web3.js library in Go
 - [Solnet](https://github.com/bmresearch/Solnet) ![](https://img.shields.io/github/stars/bmresearch/Solnet.svg?style=social) Solana .NET SDK and integration library
-- [solanaj](https://github.com/p2p-org/solanaj) ![](https://img.shields.io/github/stars/p2p-org/solanaj.svg?style=social)Solana blockchain client, written in pure Java.
+- [solanaj](https://github.com/p2p-org/solanaj) ![](https://img.shields.io/github/stars/p2p-org/solanaj.svg?style=social) Solana blockchain client, written in pure Java.
 - [Solders](https://github.com/kevinheavey/solders) ![](https://img.shields.io/github/stars/kevinheavey/solders.svg?style=social) Python wrapper for Rust SDK
 
 ## IDEs
