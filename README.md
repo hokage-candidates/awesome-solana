@@ -129,8 +129,8 @@ For a much more extensive list of information regarding Solana NFTs, please see 
 - [Solana.py](https://github.com/michaelhly/solana-py) ![](https://img.shields.io/github/stars/michaelhly/solana-py.svg?style=social) Solana Python SDK
 - [Solana Go](https://github.com/gagliardetto/solana-go.git) ![](https://img.shields.io/github/stars/gagliardetto/solana-go.svg?style=social) Solana Web3.js library in Go
 - [Solnet](https://github.com/bmresearch/Solnet) ![](https://img.shields.io/github/stars/bmresearch/Solnet.svg?style=social) Solana .NET SDK and integration library
-- [solanaj](https://github.com/p2p-org/solanaj) ![](https://img.shields.io/github/stars/p2p-org/solanaj.svg?style=social) Solana blockchain client, written in pure Java.
 - [Solders](https://github.com/kevinheavey/solders) ![](https://img.shields.io/github/stars/kevinheavey/solders.svg?style=social) Python wrapper for Rust SDK
+- [solanaj](https://github.com/skynetcap/solanaj) ![](https://img.shields.io/github/stars/p2p-org/solanaj.svg?style=social) Solana blockchain client, written in pure Java.
 
 ## IDEs
 
