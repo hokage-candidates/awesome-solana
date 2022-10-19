@@ -116,6 +116,7 @@ For a much more extensive list of information regarding Solana NFTs, please see 
 
 ### Social
 
+- [Strata Protocol](https://github.com/StrataFoundation/strata) ![](https://img.shields.io/github/stars/StrataFoundation/strata.svg?style=social) ([docs](docs.strataprotocol.com)) Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana
 - [Cardinal Lab's Namespaces](https://github.com/cardinal-labs/cardinal-namespaces) ![](https://img.shields.io/github/stars/cardinal-labs/cardinal-namespaces.svg?style=social) Cardinal program for mapping string names to data on-chain. Names are organized into logical groupings called namespaces. Namespaces authority can optionally set a rental price. Names are represented as NFTs wrapped using cardinal-token-manager
 - [Wordcel](https://github.com/Wordcel/wordcel) ![](https://img.shields.io/github/stars/Wordcel/wordcel.svg?style=social) V1 of the Wordcel social protocol, with emphasis on long-form blogging at the moment
 - [Bonfida's Name Service Guide](https://github.com/Bonfida/solana-name-service-guide) possibly deprecated ?? not sure
