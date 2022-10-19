@@ -9,7 +9,7 @@ A curated (unofficial) list of resources for builders / artists hacking on Solan
 
 If you see something missing - please submit a PR 🙏
 
-_Heavily_ onspired by:
+_Heavily_ inspired by:
 * [Illmoi's Awesome Solana NFTs](https://github.com/ilmoi/awesome-solana-nfts)
 * [Paul Schaaf's Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
 
