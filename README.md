@@ -170,11 +170,11 @@ Closed Source Wallets:
 
 ## Security
 
-Network-level Resources:
+#### Network-level Resources:
 - [Solana Status](https://status.solana.com/) shows the health of the Solana mainnet cluster & RPC nodes
 - [Official Solana News](https://solana.com/news/)
 
-Program-level Resources:
+#### Program-level Resources
 
 Neodyme:
 - [List of Common Security Pitfalls](https://blog.neodyme.io/posts/solana_common_pitfalls)
@@ -182,10 +182,9 @@ Neodyme:
 - [PoC Framework](https://github.com/neodyme-labs/solana-poc-framework) ![](https://img.shields.io/github/stars/neodyme-labs/solana-poc-framework.svg?style=social)
 
 OtterSec
-- [Framework for Solana CTF Challenges](https://github.com/otter-sec/sol-ctf-framework) ![](https://img.shields.io/github/stars/neodyme-labs/otter-sec/sol-ctf-framework.svg?style=social)
-
-- [Binary Ninja Plugin for Solana Byte Format](https://github.com/otter-sec/bn-ebpf-solana) ![](https://img.shields.io/github/stars/neodyme-labs/otter-sec/bn-ebpf-solana.svg?style=social)
-- [Jet Protocol Governance PoCs](https://github.com/otter-sec/jet-governance-pocs) ![](https://img.shields.io/github/stars/neodyme-labs/otter-sec/jet-governance-pocs.svg?style=social)
+- [Framework for Solana CTF Challenges](https://github.com/otter-sec/sol-ctf-framework) ![](https://img.shields.io/github/stars/otter-sec/sol-ctf-framework.svg?style=social)
+- [Binary Ninja Plugin for Solana Byte Format](https://github.com/otter-sec/bn-ebpf-solana) ![](https://img.shields.io/github/stars/otter-sec/bn-ebpf-solana.svg?style=social)
+- [Jet Protocol Governance PoCs](https://github.com/otter-sec/jet-governance-pocs) ![](https://img.shields.io/github/stars/otter-sec/jet-governance-pocs.svg?style=social)
 
 Sec3 Dev's Auditing Tutorials:
 - [Part One](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed)
