@@ -60,6 +60,9 @@ Official Solana Developer Resources:
 - [Program Examples](https://github.com/solana-developers/program-examples) ![](https://img.shields.io/github/stars/solana-developers/program-examples.svg?style=social)
 - [Workshop dApps](https://github.com/solana-developers/workshop-dapps) ![](https://img.shields.io/github/stars/solana-developers/workshop-dapps.svg?style=social)
 
+Buildspace Course:
+- [Solana Core](https://buildspace.so/solana-core)
+
 Figment Courses:
 - [Fullstack mail dApp on Solana](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana)
 - [Crowdfunding with Solana](https://learn.figment.io/tutorials/crowdfunding-with-solana)
