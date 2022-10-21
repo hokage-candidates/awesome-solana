@@ -129,7 +129,7 @@ Canonical open source examples:
 ### Oracles
 
 - [Switchboard](https://github.com/switchboard-xyz/switchboard-v2) ![](https://img.shields.io/github/stars/switchboard-xyz/switchboard-v2.svg?style=social) ([docs](https://docs.switchboard.xyz/)) Switchboard provides a permission-less data layer to bridge the gap between the internet and web3.
-- [Pyth Oracles for Serum Order Book Prices](https://github.com/pyth-network/pyth-serum) and it's [Rust SDK](https://github.com/pyth-network/pyth-sdk-rs). See more information about [Pyth Network here](https://pyth.network/).
+- [Pyth Oracles for Serum Order Book Prices](https://github.com/pyth-network/pyth-serum) ![](https://img.shields.io/github/stars/pyth-network/pyth-serum.svg?style=social) and it's [Rust SDK](https://github.com/pyth-network/pyth-sdk-rs) ![](https://img.shields.io/github/stars/pyth-network/pyth-sdk-rs.svg?style=social). See more information about [Pyth Network here](https://pyth.network/).
 
 ### Social
 
@@ -141,9 +141,14 @@ Canonical open source examples:
 ### Frameworks
 
 - [Anchor](https://github.com/coral-xyz/anchor) ![](https://img.shields.io/github/stars/coral-xyz/anchor.svg?style=social) ⚓ Solana Sealevel Framework
-- [Seahorse](https://github.com/ameliatastic/seahorse-lang) ![](https://img.shields.io/github/ameliatastic/seahorse-lang.svg?style=social) Write Solana programs in Python
+  - [Docs](https://www.anchor-lang.com/)
+  - [Cookbook](https://book.anchor-lang.com/)
+- [Seahorse](https://github.com/ameliatastic/seahorse-lang) ![](https://img.shields.io/github/stars/ameliatastic/seahorse-lang.svg?style=social) Write Solana programs in Python
+  - [Docs](https://seahorse-lang.org/)
+  - [Cookbook](https://www.seahorsecookbook.com)
 - [Solita](https://github.com/metaplex-foundation/solita) ![](https://img.shields.io/github/stars/metaplex-foundation/solita.svg?style=social) Generates an SDK API from solana contract IDL (written by Metaplex to generate typescript SDK from Shank IDL)
 - [Shank](https://github.com/metaplex-foundation/shank) ![](https://img.shields.io/github/stars/metaplex-foundation/shank.svg?style=social) Extracts IDL from Solana Rust contracts (written by Metaplex for Metaplex NFT standard)
+
 
 ### Libraries
 
