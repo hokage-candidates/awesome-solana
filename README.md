@@ -218,6 +218,9 @@ Sec3 Dev's Auditing Tutorials:
 Solend Protocol's Auditing Presentation:
 - [Auditing Workshop Slides](https://docs.google.com/presentation/d/1jZ9kVo6hnhBsz3D2sywqpMojqLE5VTZtaXna7OHL1Uk/edit?pli=1#slide=id.ge15c343642_0_51)
 
+Ackee-Blockchain:
+- [Trident](https://usetrident.xyz/) - Fuzzing framework for Solana smart contracts
+
 ## Contributing
 
 Contributions are received with 💜
