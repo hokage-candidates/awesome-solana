@@ -149,7 +149,7 @@ Canonical open source examples:
   - [Cookbook](https://www.seahorsecookbook.com)
 - [Solita](https://github.com/metaplex-foundation/solita) ![](https://img.shields.io/github/stars/metaplex-foundation/solita.svg?style=social) Generates an SDK API from solana contract IDL (written by Metaplex to generate typescript SDK from Shank IDL)
 - [Shank](https://github.com/metaplex-foundation/shank) ![](https://img.shields.io/github/stars/metaplex-foundation/shank.svg?style=social) Extracts IDL from Solana Rust contracts (written by Metaplex for Metaplex NFT standard)
-
+- [SMWA Injection Tool](https://github.com/plinkdev1/SMWA-InjectionTool) ![](https://img.shields.io/github/stars/plinkdev1/SMWA-InjectionTool.svg?style=social) Injects Mobile Wallet Adapter into any Android Chrome page — enables Solana dApps to load wallet pickers on non-Saga Android devices. 4 methods, MIT licensed.
 
 ### Libraries
 
