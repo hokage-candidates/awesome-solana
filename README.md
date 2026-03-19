@@ -139,6 +139,7 @@ Canonical open source examples:
 - [Wordcel](https://github.com/Wordcel/wordcel) ![](https://img.shields.io/github/stars/Wordcel/wordcel.svg?style=social) V1 of the Wordcel social protocol, with emphasis on long-form blogging at the moment
 - [Bonfida's Name Service Guide](https://github.com/Bonfida/solana-name-service-guide) possibly deprecated ?? not sure
 
+- [XHuntr](https://xhuntr.com) Real-time X (Twitter) community monitoring bot for Solana alpha traders. Fires Telegram alerts when tracked KOLs create or join X communities, post contract addresses before the public tweet, or when multiple tracked accounts converge — 24-48 hours before wallet trackers. ([bot](https://t.me/XHuntrbot))
 ### Frameworks
 
 - [Anchor](https://github.com/coral-xyz/anchor) ![](https://img.shields.io/github/stars/coral-xyz/anchor.svg?style=social) ⚓ Solana Sealevel Framework
