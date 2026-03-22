@@ -211,6 +211,9 @@ OtterSec
 - [Jet Protocol Governance PoCs](https://github.com/otter-sec/jet-governance-pocs) ![](https://img.shields.io/github/stars/otter-sec/jet-governance-pocs.svg?style=social)
 
 Sec3 Dev's Auditing Tutorials:
+#### Wallet Security & Recovery
+- [SolHunt](https://github.com/shieldspprt/solhunt-recovery) ![](https://img.shields.io/github/stars/shieldspprt/solhunt-recovery.svg?style=social) - Solana wallet health analysis and SOL recovery. Check wallet efficiency, find recoverable SOL from zero-balance token accounts, and build trustless recovery transactions.
+
 - [Part One](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed)
 - [Part Two](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-2-automated-scanning-ceb88830ae6d)
 - [Part Three](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3)
