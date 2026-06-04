@@ -221,6 +221,9 @@ Solend Protocol's Auditing Presentation:
 Ackee-Blockchain:
 - [Trident](https://usetrident.xyz/) - Fuzzing framework for Solana smart contracts
 
+#### Token-level Analysis Tools:
+- [Solana Rug Guard](https://github.com/rugpullnet/solana-rug) ![](https://img.shields.io/github/stars/rugpullnet/solana-rug.svg?style=social) - Open-source on-chain rug-pull detection for Solana tokens and wallets. Runs 13 safety checks (mint/freeze authority, liquidity depth, top-holder concentration, sniper detection, wash trading analysis, Token-2022 extensions) using public RPCs and free DexScreener API. No API keys needed.
+
 ## Contributing
 
 Contributions are received with 💜
