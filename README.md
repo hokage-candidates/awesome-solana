@@ -221,6 +221,12 @@ Solend Protocol's Auditing Presentation:
 Ackee-Blockchain:
 - [Trident](https://usetrident.xyz/) - Fuzzing framework for Solana smart contracts
 
+## AI Agents
+
+#### Trust and Identity
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana AI agent trust scoring and x402 micropayment verification. Score any Solana wallet before paying it via USDC micropayment. MCP-native: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Contributing
 
 Contributions are received with 💜
