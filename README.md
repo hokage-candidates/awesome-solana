@@ -113,6 +113,7 @@ Defi Protocols:
 - [Jet Protocol V2](https://github.com/jet-lab/jet-v2) ![](https://img.shields.io/github/stars/jet-lab/jet-v2.svg?style=social) Implementation of the Jet Protocol V2 programs for Solana
 - [Marinade Finance Liquid Staking Program](https://github.com/marinade-finance/liquid-staking-program) ![](https://img.shields.io/github/stars/marinade-finance/liquid-staking-program.svg?style=social)
 - [Jupiter Aggregator API Rust Bindings](https://github.com/mvines/rust-jup-ag) [](https://img.shields.io/github/stars/mvines/rust-jup-ag.svg?style=social)
+- [WealthVille](https://wealthville.net) Non-custodial automated yield optimizer on Solana. Keeper bots auto-compound LP rewards across Orca Whirlpools and Raydium AMM/CLMM/CPMM, with AI-powered pool discovery and Telegram signals.
 
 Canonical open source examples:
 - [SPL Token Lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound
