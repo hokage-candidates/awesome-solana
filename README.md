@@ -159,7 +159,7 @@ Canonical open source examples:
 
 - [Holaplex's NFT Indexer](https://github.com/holaplex/indexer) ![](https://img.shields.io/github/stars/holaplex/indexer.svg?style=social)
 - [Metaplex's NFT Indexer](https://github.com/metaplex-foundation/digital-asset-validator-plugin) ![](https://img.shields.io/github/stars/metaplex-foundation/digital-asset-validator-plugin.svg?style=social)
-- [DexPaprika](https://api.dexpaprika.com) - Free DEX data API with Solana support. Pools, tokens, OHLCV, trades, real-time SSE streaming across 34 chains. No API key. ![](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp.svg?style=social)
+- [DexPaprika](https://api.dexpaprika.com) - DEX data API with Solana support. Pools, tokens, OHLCV, trades, SSE streaming across 36 chains. Free tier is 200,000 requests/month with no API key. [Docs](https://docs.dexpaprika.com)
 
 ## SDKs
 
