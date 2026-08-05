@@ -51,6 +51,7 @@ Table of Contents
 
 - [Solana Cookbook](https://solanacookbook.com/) is a developer resource that provides the essential concepts and references for building applications on Solana
 - [Anchor Lang Book](https://book.anchor-lang.com/) teaches how to build Solana programs using the Anchor framework
+- [Solana Programs](https://lamport.press/) is a four-volume book series explaining the official program examples line by line, with free single-page guides on PDAs and Token-2022 at [lamport.press/guides](https://lamport.press/guides)
 - [SolDev Tutorials](https://soldev.app/)
 - [Buildspace Tutorials](https://buildspace.so/learn-solana)
 - [Guide to Fullstack Development on Solana](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
