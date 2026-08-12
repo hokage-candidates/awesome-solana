@@ -157,6 +157,7 @@ Canonical open source examples:
 
 ### Indexers
 
+- [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) free n8n workflow, Telegram alert on new transactions for a given mint/program, no infra to run
 - [Holaplex's NFT Indexer](https://github.com/holaplex/indexer) ![](https://img.shields.io/github/stars/holaplex/indexer.svg?style=social)
 - [Metaplex's NFT Indexer](https://github.com/metaplex-foundation/digital-asset-validator-plugin) ![](https://img.shields.io/github/stars/metaplex-foundation/digital-asset-validator-plugin.svg?style=social)
 
