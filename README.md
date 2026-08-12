@@ -197,6 +197,7 @@ Closed Source Wallets:
 #### Network-level Resources:
 - [Solana Status](https://status.solana.com/) shows the health of the Solana mainnet cluster & RPC nodes
 - [Official Solana News](https://solana.com/news/)
+- [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - free n8n workflow, Telegram alert on new transactions for an SPL mint or program ID, RPC-only
 
 #### Program-level Resources
 
