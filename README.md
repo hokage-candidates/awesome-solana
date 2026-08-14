@@ -46,6 +46,7 @@ Table of Contents
 - [Solana](https://github.com/solana-labs/solana) is the current monorepo containing the Solana Virtual Machine code (under active development & improvement)
 - [Nitro SVM](https://mobile.twitter.com/nitro_labs) is the first Solana VM chain (built on Cosmos).
 - [Eclipse](https://eclipse.builders/) is the first service providing customizable modular rollups, using the Solana VM
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches a Solana mint/program ID and alerts on Telegram when a new transaction appears, no API key needed.
 
 ## Books, Tutorials, and Courses
 
