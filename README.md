@@ -74,6 +74,7 @@ SolHack Courses:
 
 ## Jobs
 
+- [Solana Bounty Radar](https://github.com/voutx78-lang/solana-bounty-radar) - Open-source CLI and daily dashboard for discovering and risk-screening public Solana/Web3 bounties.
 - [Solana Ecosystem Job Board](https://jobs.solana.com/jobs)
 - [Superteam DAO's Earn Page](https://earn.superteam.fun/)
 
