@@ -190,6 +190,7 @@ Closed Source Wallets:
 - [Phantom](https://phantom.app/)
 - [Solflare](https://solflare.com/)
 - [Glow](https://glow.app/)
+- [NOVA](https://www.nov.ag/) - Privacy-focused self-custody Solana wallet for iOS and web with public-wallet tracking, Ledger support, and transaction preview features.
 
 
 ## Security
