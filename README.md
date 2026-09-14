@@ -139,6 +139,7 @@ Canonical open source examples:
 - [Wordcel](https://github.com/Wordcel/wordcel) ![](https://img.shields.io/github/stars/Wordcel/wordcel.svg?style=social) V1 of the Wordcel social protocol, with emphasis on long-form blogging at the moment
 - [Bonfida's Name Service Guide](https://github.com/Bonfida/solana-name-service-guide) possibly deprecated ?? not sure
 
+- [Solgrok](https://github.com/LMajster/sgrok) ![](https://img.shields.io/github/stars/LMajster/sgrok.svg?style=social) Autonomous Solana creator-ops agent ($SGROK) on Bags.fm — 24/7 promo + fee claim/sweep. Trade: https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
 ### Frameworks
 
 - [Anchor](https://github.com/coral-xyz/anchor) ![](https://img.shields.io/github/stars/coral-xyz/anchor.svg?style=social) ⚓ Solana Sealevel Framework
