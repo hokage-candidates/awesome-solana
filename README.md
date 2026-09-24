@@ -159,6 +159,7 @@ Canonical open source examples:
 
 - [Holaplex's NFT Indexer](https://github.com/holaplex/indexer) ![](https://img.shields.io/github/stars/holaplex/indexer.svg?style=social)
 - [Metaplex's NFT Indexer](https://github.com/metaplex-foundation/digital-asset-validator-plugin) ![](https://img.shields.io/github/stars/metaplex-foundation/digital-asset-validator-plugin.svg?style=social)
+- [Envio HyperIndex](https://github.com/enviodev/hyperindex) ![](https://img.shields.io/github/stars/enviodev/hyperindex.svg?style=social) Multichain indexer that decodes Solana program instructions and serves the data through a GraphQL API
 
 ## SDKs
 
