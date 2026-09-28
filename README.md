@@ -190,6 +190,7 @@ Closed Source Wallets:
 - [Phantom](https://phantom.app/)
 - [Solflare](https://solflare.com/)
 - [Glow](https://glow.app/)
+- [VIBE Wallet](https://vibewallet.net/) - Non-custodial native Linux desktop wallet for Solana (GTK 4 / libadwaita) with Ledger and Trezor support.
 
 
 ## Security
