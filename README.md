@@ -114,6 +114,9 @@ Defi Protocols:
 - [Marinade Finance Liquid Staking Program](https://github.com/marinade-finance/liquid-staking-program) ![](https://img.shields.io/github/stars/marinade-finance/liquid-staking-program.svg?style=social)
 - [Jupiter Aggregator API Rust Bindings](https://github.com/mvines/rust-jup-ag) [](https://img.shields.io/github/stars/mvines/rust-jup-ag.svg?style=social)
 
+Trading Terminals:
+- [GDEX Pro](https://gdex.pro/) - Multi-chain crypto trading terminal with Solana support, copy trading and wallet analytics.
+
 Canonical open source examples:
 - [SPL Token Lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound
 - [SPL Token Swap](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A Uniswap-like exchange for the Token program on the Solana blockchain.
