@@ -119,6 +119,9 @@ Canonical open source examples:
 - [SPL Token Swap](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A Uniswap-like exchange for the Token program on the Solana blockchain.
 
 
+- [CurveRadar](https://curveradar.com/) - Solana token screener, launchpad and liquidity locker.
+
+
 ### On-Chain Governance
 
 - [SPL Governance](https://github.com/solana-labs/solana-program-library/tree/master/governance) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) SPL Governance is a program the chief purpose of which is to provide core building blocks and primitives to create Decentralized Autonomous Organizations (DAOs) on Solana blockchain. [Realms](https://realms.today/) is the official UI for interacting with organizations running on top of SPL Governance. The UI is [open sourced](https://github.com/solana-labs/governance-ui) ![](https://img.shields.io/github/stars/solana-labs/governance-ui.svg?style=social).
