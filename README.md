@@ -54,6 +54,7 @@ Table of Contents
 - [SolDev Tutorials](https://soldev.app/)
 - [Buildspace Tutorials](https://buildspace.so/learn-solana)
 - [Guide to Fullstack Development on Solana](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [Wen Open Lab: Token-2022 models](https://github.com/wen-watt/wen-watt.github.io/tree/main/lab/code) open TypeScript examples of Token-2022 extensions (soulbound receipt NFT with metadata in the mint, required memo, frozen-by-default accounts, capped transfer fees), tested in LiteSVM and runnable on devnet
 
 Official Solana Developer Resources:
 - [Bootcamp Lectures - Highly Technical](https://github.com/solana-developers/solana-bootcamp-lectures) ![](https://img.shields.io/github/stars/solana-developers/solana-bootcamp-lectures.svg?style=social)
