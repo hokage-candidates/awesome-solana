@@ -104,6 +104,7 @@ For a much more extensive list of information regarding Solana NFTs, please see 
 Token Protocols:
 - [SPL Token](https://github.com/solana-labs/solana-program-library/tree/master/token) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) Similar to [ERC-20 standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 - [SPL Token 2022](https://github.com/solana-labs/solana-program-library/tree/master/token/program-2022) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) Not yet widely adopted
+- [Solmint](https://solmint.dev) No-code creator for SPL and Token-2022 tokens with Metaplex metadata, authority controls and liquidity pools on Raydium, Orca and PumpSwap; the wallet signs one transaction and keeps the supply (closed source)
 
 Defi Protocols:
 - [Serum Monorepo](https://github.com/project-serum/serum-dex) ![](https://img.shields.io/github/stars/project-serum/serum-dex.svg?style=social) Project Serum Rust Monorepo. Serum was the first Central Limit Order Book (CLOB) on Solana, and has been a cornerstone of Solana Defi.
