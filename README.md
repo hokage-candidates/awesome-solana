@@ -184,6 +184,7 @@ Please note that the following is an **_unofficial_** list ordered as described 
 - [Coral-xyz's Backpack](https://github.com/coral-xyz/backpack) ![](https://img.shields.io/github/stars/coral-xyz/backpack.svg?style=social) Cross chain wallet for Solana and Ethereum, it's specialty is its app store, which allows dApps to be bought as xNFTs (executable NFTs) which can then be run inside your wallet
 - [Solana Wallet for Unity](https://github.com/allartprotocol/unity-solana-wallet) ![](https://img.shields.io/github/stars/allartprotocol/unity-solana-wallet.svg?style=social) The First Open-Source Unity-Solana Wallet with NFT support
 - [p2p's Web Wallet](https://github.com/p2p-org/p2p-wallet-web) ![](https://img.shields.io/github/stars/p2p-org/p2p-wallet-web.svg?style=social) An Open Source Browser Based Solana Wallet.
+- [BitTool Signer (iOS)](https://github.com/bitbill/bittool-signer-ios) ![](https://img.shields.io/github/stars/bitbill/bittool-signer-ios.svg?style=social) MIT-licensed offline iOS signer for Solana and other networks; exchanges signing requests and signatures with an online companion through QR codes.
 
 Closed Source Wallets:
 
