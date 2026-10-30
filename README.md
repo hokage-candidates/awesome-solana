@@ -185,6 +185,8 @@ Please note that the following is an **_unofficial_** list ordered as described 
 - [Solana Wallet for Unity](https://github.com/allartprotocol/unity-solana-wallet) ![](https://img.shields.io/github/stars/allartprotocol/unity-solana-wallet.svg?style=social) The First Open-Source Unity-Solana Wallet with NFT support
 - [p2p's Web Wallet](https://github.com/p2p-org/p2p-wallet-web) ![](https://img.shields.io/github/stars/p2p-org/p2p-wallet-web.svg?style=social) An Open Source Browser Based Solana Wallet.
 
+- [BitTool Signer (iOS)](https://github.com/bitbill/bittool-signer-ios) ![](https://img.shields.io/github/stars/bitbill/bittool-signer-ios.svg?style=social) MIT-licensed offline iOS signer for Solana and other networks; exchanges signing requests and signatures with an online companion through QR codes.
+
 Closed Source Wallets:
 
 - [Phantom](https://phantom.app/)
@@ -224,3 +226,4 @@ Ackee-Blockchain:
 ## Contributing
 
 Contributions are received with 💜
+
