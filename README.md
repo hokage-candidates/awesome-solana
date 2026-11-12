@@ -126,6 +126,7 @@ Canonical open source examples:
 ### Cross-Chain Bridge
 
 - [Wormhole](https://github.com/wormhole-foundation/wormhole) ![](https://img.shields.io/github/stars/wormhole-foundation/wormhole.svg?style=social) A reference implementation for the Wormhole blockchain interoperability protocol. See more information about [wormhole here](https://wormhole.com/).
+- [Shieldz Swap](https://swap.shieldz.cash) Non-custodial swaps between Solana and 44 other chains (native BTC, ETH, TRX, ZEC, USDT/USDC), quoting NEAR Intents, Chainflip, Relay and Maya; no account.
 
 ### Oracles
 
