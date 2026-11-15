@@ -159,6 +159,7 @@ Canonical open source examples:
 
 - [Holaplex's NFT Indexer](https://github.com/holaplex/indexer) ![](https://img.shields.io/github/stars/holaplex/indexer.svg?style=social)
 - [Metaplex's NFT Indexer](https://github.com/metaplex-foundation/digital-asset-validator-plugin) ![](https://img.shields.io/github/stars/metaplex-foundation/digital-asset-validator-plugin.svg?style=social)
+- [specula](https://github.com/seekdaseek/specula) ![](https://img.shields.io/github/stars/seekdaseek/specula.svg?style=social) Telegram alerts for Solana programs decoded from the program's IDL, covering upgrades, authority changes, silence and any instruction or event. Open source, MIT.
 
 ## SDKs
 
