@@ -171,6 +171,7 @@ Canonical open source examples:
 - [SolanaKT](https://github.com/metaplex-foundation/SolanaKT) ![](https://img.shields.io/github/stars/metaplex-foundation/SolanaKT.svg?style=social) Solana SDK for Kotlin
 - [Solders](https://github.com/kevinheavey/solders) ![](https://img.shields.io/github/stars/kevinheavey/solders.svg?style=social) Python wrapper for Rust SDK
 - [solanaj](https://github.com/skynetcap/solanaj) ![](https://img.shields.io/github/stars/p2p-org/solanaj.svg?style=social) Solana blockchain client, written in pure Java
+- [Synq](https://synq.build) [examples](https://github.com/aerosol-build/synq-examples) ![](https://img.shields.io/github/stars/aerosol-build/synq-examples.svg?style=social) Hosted Sign In With Solana for web and mobile apps, with Mobile Wallet Adapter on Android, passkey, email and social sign-in on the same account, and token gating
 
 ## IDEs
 
