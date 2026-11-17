@@ -46,6 +46,7 @@ Table of Contents
 - [Solana](https://github.com/solana-labs/solana) is the current monorepo containing the Solana Virtual Machine code (under active development & improvement)
 - [Nitro SVM](https://mobile.twitter.com/nitro_labs) is the first Solana VM chain (built on Cosmos).
 - [Eclipse](https://eclipse.builders/) is the first service providing customizable modular rollups, using the Solana VM
+- [Machine](https://github.com/yourmememachine/mememachine) is a Solana-derived L1 built on an Agave 2.3.13 fork, with the LaunchGuard anti-rug launch standard and a bridge to Solana (localnet stage, unaudited)
 
 ## Books, Tutorials, and Courses
 
