@@ -190,6 +190,7 @@ Closed Source Wallets:
 - [Phantom](https://phantom.app/)
 - [Solflare](https://solflare.com/)
 - [Glow](https://glow.app/)
+- [Terra Wallet](https://terrawallet.us/)
 
 
 ## Security
