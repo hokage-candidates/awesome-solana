@@ -117,7 +117,7 @@ Defi Protocols:
 Canonical open source examples:
 - [SPL Token Lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound
 - [SPL Token Swap](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A Uniswap-like exchange for the Token program on the Solana blockchain.
-
+- [Solana Rent & Rug Shield](https://rentandrugshield.com/) ![](https://img.shields.io/github/stars/sonnyman2014/rentandrugshield.svg?style=social) Non-custodial 12-Layer live pre-swap rug and honeypot shield (Layer 13 Behavioral & Creator DNA Engine coming soon), Chrome Extension v6.9 MV3, lowest Solana swap and rent fees, 0% free first wallet SOL rent claim, and in-house Turbo Swap Terminal ([trade.html](https://rentandrugshield.com/trade.html), [/in/](https://rentandrugshield.com/in/), [/zh/](https://rentandrugshield.com/zh/)).
 
 ### On-Chain Governance
 
